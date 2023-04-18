@@ -7,8 +7,5 @@ export default {
   theme: {
     extend: {},
   },
-  plugins: [],
-  future:{
-    hoverOnlyWhenSupported: true,
-  }
+  plugins: []
 }
